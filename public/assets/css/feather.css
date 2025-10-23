@@ -1,0 +1,36 @@
+:root {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  color-scheme: light dark;
+}
+
+body {
+  background-color: #fafafa;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header, footer {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+main {
+  margin: auto;
+  padding: 1rem;
+  max-width: 800px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.1);
+}
+
+h1, h2 { color: #111; }
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+pre {
+  background: #f4f4f4;
+  padding: 8px;
+  border-radius: 5px;
+  overflow: auto;
+}
