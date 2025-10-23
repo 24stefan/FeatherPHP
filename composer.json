@@ -1,0 +1,38 @@
+{
+  "name": "featherphp/featherphp",
+  "description": "FeatherPHP — ultra-lightweight PHP framework .",
+  "type": "library",
+  "keywords": ["php", "framework", "lightweight", "microframework", "featherphp"],
+  "homepage": "",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "24stefan",
+      "email": "24s.stevanovic@gmail.com",
+      "role": "Lead Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "FeatherPHP\\Core\\": "core/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "FeatherPHP\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "serve": "php -S localhost:8080 -t public",
+    "test": "phpunit --colors=always"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
