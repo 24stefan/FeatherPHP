@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./icons/featherphp.png" width="120" alt="FeatherPHP Logo">
-</p>
+![](icons/featherphp.png)
+---
 
 <h1 align="center">FeatherPHP</h1>
 ---
@@ -18,7 +17,7 @@
 </p>
 
 ---
-[](/icons/featherphp-performance-test.png)
+![](/icons/featherphp-performance-test.png)
 ---
 ### ⚙️ Quick Start
 
