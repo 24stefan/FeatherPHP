@@ -1,5 +1,6 @@
-[FeatherPHP](icons/featherphp.png)
----
+<p align="center">
+  <img src="./icons/featherphp.png" width="120" alt="FeatherPHP Logo">
+</p>
 
 <h1 align="center">FeatherPHP</h1>
 ---
