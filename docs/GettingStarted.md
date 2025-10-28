@@ -106,7 +106,7 @@ Then create **`views/about.php`**:
 
 ---
 
-##⚡ Building JSON APIs
+## Building JSON APIs
 
 FeatherPHP also works great for API endpoints — no extra setup required.
 
