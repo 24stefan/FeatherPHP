@@ -28,7 +28,7 @@
             <a href="#features" class="text-gray-400 hover:text-blue-400 transition">Features</a>
             <a href="#performance" class="text-gray-400 hover:text-blue-400 transition">Benchmarks</a>
             <a href="#getting-started" class="text-gray-400 hover:text-blue-400 transition">Docs</a>
-            <a href="#" class="px-3 py-1 text-sm bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">GitHub</a>
+            <a href="https://github.com/24stefan/FeatherPHP" class="px-3 py-1 text-sm bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">GitHub</a>
         </nav>
         <button class="md:hidden text-gray-400 hover:text-white">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
@@ -168,7 +168,7 @@ $router->get('/api/test', function($req, $res) {
             </div>
 
             <div class="text-center mt-12">
-                <a href="#" class="px-8 py-4 text-xl font-bold bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition transform hover:scale-[1.02] btn-primary-shadow">
+                <a href="https://github.com/24stefan/FeatherPHP/blob/main/docs/GettingStarted.md" class="px-8 py-4 text-xl font-bold bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition transform hover:scale-[1.02] btn-primary-shadow">
                     Read Full Documentation
                 </a>
             </div>
