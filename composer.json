@@ -3,7 +3,7 @@
   "description": "FeatherPHP — ultra-lightweight PHP framework .",
   "type": "library",
   "keywords": ["php", "framework", "lightweight", "microframework", "featherphp"],
-  "homepage": "",
+  "homepage": "https://featherphp.onrender.com/",
   "license": "MIT",
   "authors": [
     {

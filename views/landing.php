@@ -54,7 +54,7 @@
                     Get Started Instantly &rarr;
                 </a>
                 <a href="/demo" class="px-8 py-3 text-lg font-semibold border border-gray-600 text-gray-300 rounded-lg hover:bg-gray-800 transition">
-                    View Live Demo
+                   
                 </a>
             </div>
         </div>
